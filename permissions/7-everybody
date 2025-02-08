@@ -1,2 +1,2 @@
 #!/bin/bash
-file=hello && chmod u+x $file && chmod g+x $file && chmod o+x $file
+chmod u+x hello && chmod g+rx hello && chmod o+x hello
