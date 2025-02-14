@@ -3,11 +3,13 @@
 This is my second project completed during my Full Stack Software Engineering studies at Holberton School, through the Tuwaiq Academy program, where I am learning the fundamentals of software engineering. 🖥️
 
 
-🎉 Time to dive into the Shell! In this project, I’m learning how to navigate the Linux file system, manipulate files, and work with commands like a pro.Now I know how to work with cd, ls, pwd, mv, cp, and more! 
+
+
+Time to dive into the Shell! In this project, I’m learning how to navigate the Linux file system, manipulate files, and work with commands like a pro.Now I know how to work with cd, ls, pwd, mv, cp, and more! 
 
 Here’s what I’m tackling:
 
 Getting comfy with navigating directories and using keyboard shortcuts ⌨️
 Understanding man pages and shebangs 📝
-Learning to manipulate files, create links, and work with commands like type and which 💻
-Making scripts that are exactly two lines long and making them executable (chmod magic)! 🔧
+Learning to manipulate files, create links, and work with commands like type and which 
+Making scripts that are exactly two lines long and making them executable (chmod magic)! 
