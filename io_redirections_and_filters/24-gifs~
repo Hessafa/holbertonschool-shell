@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-find . -type f -iname "*.gif" -printf "%f\n" |
-sed 's/\.gif$//' |
-sort -f |
-awk '{print} END {print ""}'

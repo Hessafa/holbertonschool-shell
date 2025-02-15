@@ -1,8 +1,2 @@
 #!/bin/bash
-
-# Find all .gif files, without extensions, sorted case-insensitively
-find . -type f -iname "*.gif" | \
-  while IFS= read -r file; do
-    # Remove the extension and print the filename
-    echo "${file%.*}"
-  done | sort -f
+find . -type f -iname "*.gif" -exec sh -c 'echo "${1%.*}"' sh {} \; | sort -f
